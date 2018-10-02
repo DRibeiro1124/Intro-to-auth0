@@ -2,6 +2,11 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+// import Auth from './Auth/Auth';
+
+// const auth = new Auth();
+// auth.login();
+
 class App extends Component {
   render() {
     return (
